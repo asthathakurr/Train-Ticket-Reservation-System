@@ -41,7 +41,7 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - View Profile
 - Update Profile
 - Change Password
-- Logout
+- Logout.
 
 ### Technologies used:-
 1. Front-End Development:
